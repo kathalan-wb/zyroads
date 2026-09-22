@@ -1,1 +1,1 @@
-- Build the Zyro Adz single-page website with the supplied brand, scroll animation, contact modal, mobile menu, and footer.
+- [x] Build the Zyro Adz single-page website with the supplied brand, scroll animation, contact modal, mobile menu, and footer.
