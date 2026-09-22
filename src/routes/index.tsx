@@ -154,7 +154,7 @@ function Index() {
       <section id="about" className="about section-pad">
         <p className="section-label" data-reveal>02 / ABOUT ZYRO</p>
         <div className="about-grid"><div><p className="kicker" data-reveal>WE ARE ZYRO ADZ.</p><h2 className="display-title" data-reveal>IDEAS THAT<br /><span className="accent-text">MOVE.</span><br />BRANDS THAT<br /><span className="accent-text">GROW.</span></h2></div><div className="about-copy" data-reveal><p>ZYRO ADZ is a modern marketing and advertising agency focused on building brands that look sharp, communicate clearly and perform in the real world.</p><p>From strategy and identity to social media, campaigns, advertising and content, we bring creative thinking and business goals together.</p><Button className="button-primary" onClick={openContact}>WORK WITH US <ArrowUpRight /></Button></div></div>
-        <div className="stats" data-reveal>{[["20+","PROJECTS"],["10+","BRANDS"],["06","CORE SERVICES"],["∞","BIG IDEAS"]].map(([value,label]) => <div className="stat" key={label}><strong>{value}</strong><span>{label}</span></div>)}</div>
+        <div className="stats" data-reveal>{[["100+","PROJECTS"],["14+","BRANDS"],["20+","CORE SERVICES"],["∞","BIG IDEAS"]].map(([value,label]) => <div className="stat" key={label}><strong>{value}</strong><span>{label}</span></div>)}</div>
       </section>
 
       <section id="services" className="services section-pad">
